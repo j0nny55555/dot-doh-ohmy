@@ -1,74 +1,595 @@
-adblock.mydns.network
+052419.xyz # 052419.xyz
+0ms.dev # 0ms
+123000123.xyz # 123000123.xyz
+3dcosas.xyz # 3dcosas.xyz
+3dns.eu # Dom!nic
+8888.google # Google
+abel.waringer-atg.de # waringer-atg.de
+abn01.dnscry.pt # dnscry.pt
+ada.openbld.net # OpenBLD.net
+adblock.dns.mullvad.net # Mullvad
+adblock.krctech.dev # krctech.dev
+adblock.mydns.network # mydns.network
+adb.timnichollsphotography.com # TN Photography
+addns1.m-it.ro # m-it.ro
+adfreedns.top # Adfreedns
+adfree.usableprivacy.net # Usable Privacy
+adg.geili.me # smilence
+adg.khon.dev # khon.dev
+adguard.bonis.de # bonis.de
+adguard.dantynes.cyou # dantynes.cyou
+adguard.frutuozo.com.br # frutuozo.com.br
+adguard.hjebbour.top # hjebbour.top
+adguard-kartoffel.zernico.de # Nico Franke
+adguard.kasbot.net # kasbot.net
+adguard.meddy94.de # meddy94.de
+adguard.senthil.us # senthil.us
+adguard.shoupperuser.com # shoupperuser.com
+ad.justincounts.com # Justin Counts
+adl.adfilter.net # AdFilter
+ae-fuj-w-p-1.nashkan.net # nashkan.net
+ae-fuj-w-p-2.nashkan.net # nashkan.net
+ae-fuj-w-p-3.nashkan.net # nashkan.net
+affcdn.net # affcdn.net
+affsoft.cc # affsoft.cc
+africadns1.liquidtelecom.net # Liquid Intelligent Technologies
+africadns2.liquidtelecom.net # Liquid Intelligent Technologies
+ag.apollohct.com # OpenLoop
+agh.dshubham.xyz # dshubham.xyz
+all.dns.mullvad.net # Mullvad
+ams01.dnscry.pt # dnscry.pt
+ant.dns.qwer.pw # QWER DNS
+anycast.uncensoreddns.org # UncensoredDNS
 applied-privacy.net
+aqua.is.my.waifu.cz # is.my.waifu.cz
+arashi.net.eu.org # Arashi DNS
+asia.tri-dns.net # Tri-DNS
+ath01.dnscry.pt # dnscry.pt
+atl01.dnscry.pt # dnscry.pt
+atris.cyou # atris.cyou
+at-wie-w-p-1.nashkan.net # nashkan.net
+au01.dns4me.net # dns4me
+au02.dns4me.net # dns4me
+au-syd-w-f-1.nashkan.net # nashkan.net
+awan.ftp.sh # Awan.ftp.sh
+base.dns.mullvad.net # Mullvad
+bazooki-infra.dev # bazooki-infra.dev
+bestwon203.com # bestwon203.com
+blitz.ahadns.com # AhaDNS Blitz
+blocker.thethorsens.org # thethorsens.org
+bne01.dnscry.pt # dnscry.pt
+bog01.dnscry.pt # dnscry.pt
+bom01.dnscry.pt # dnscry.pt
+bru01.dnscry.pt # dnscry.pt
+bts01.dnscry.pt # dnscry.pt
+ca01.dns4me.net # dns4me
+ca02.dns4me.net # dns4me
 canadianshield.cira.ca
 captnemo.in
-cloudflare-dns.com
+clean.dnsforge.de # dnsforge.de
+cloudflare-dns.com # Cloudflare
 commons.host
+cph01.dnscry.pt # dnscry.pt
+cvt01.dnscry.pt # dnscry.pt
+darkness.is.my.waifu.cz # is.my.waifu.cz
+dart.kpsn.org # kpsn.org
+de01.dns4me.net # dns4me
+deep-henchman-excuse.cfd # deep-henchman-excuse.cfd
+de-fra-w-p-1.nashkan.net # nashkan.net
 digitale-gesellschaft.ch
+dns0.eu # dns0.eu
+dns.0ooo.icu # 0ooo.icu
 dns10.quad9.net
-dns11.quad9.net
-dns9.quad9.net
+dns10.quad9.net # Quad9
+dns11.quad9.net # Quad9
+dns12.quad9.net # Quad9
+dns1.dns-ga.de # DNS-GA
+dns1.in-berlin.de # In-Berlin
+dns1.nordvpn.com # NordVPN
+dns1.pietjacobs.be # pietjacobs.be
+dns1.serdcebolit.ru # serdcebolit.ru
+dns2.dns-ga.de # DNS-GA
+dns2.in-berlin.de # In-Berlin
+dns2.nordvpn.com # NordVPN
+dns3.dns-ga.de # DNS-GA
+dns.444723.xyz # 444723.xyz
+dns.52306.org # 52306.org
+dns64.cloudflare-dns.com # Cloudflare
+dns64.dns.google # Google
+dns.688447.xyz # 688447.xyz
+dns.775467.xyz # 775467.xyz
+dns.853852.xyz # 853852.xyz
+dns.8887744.xyz # 8887744.xyz
+dns.9999.sg # 9999.sg
+dns9.quad9.net # Quad9
+dns.a47.me # a47.me
 dns.aaflalo.me
-dns.aa.net.uk
+dns.aa.net.uk # Andrews & Arnold
 dns.adguard.com
+dns.adguard-dns.com # AdGuard
+dns.alidns.com # AliDNS
+dns.anon.no # anon.no
+dns.applewebkit.dev # applewebkit.dev
+dns.arkbotech.com # ARKBO Technologies
+dns.artikel10.org # Artikel10
+dns.asterimoon.com # Asteri Moon
+dns.asysec.com # Asys Ecuador
+dns.belnet.be # Belnet
+dns.bitdefender.net # Bitdefender
+dns.bitservices.io # BITServices
+dns.blokada.org # Blokada DNS
+dns.bmwhocking.com # Ben Hocking
+dns.braene.com # Braene
+dns.brahma.world # Brahma World
+dns.brembeck.cloud # brembeck.cloud
+dns.brono.cloud # brono.cloud
+dns.burgas.pro # Burgas
+dns.busold.ws # busold.ws
+dns.butterfly87.sbs # butterfly87.sbs
+dns.cabbage.zone # cabbage.zone
+dns.carter.me # carter.me
+dns.caspervk.net # caspervk.net
+dns.cctld.kg # CCTLD.KG
+dns.cert.ee # CERT Estonia
+dns.chenu.ch # chenu.ch
+dns.christerwaren.fi # Christer Warén
+dns.chriswservers.com # chriswservers.com
+dns.chunghwamc.com # ChunghwaMC
+dns.comff.net # comff.net
 dns.containerpi.com
+dns.criena.net # criena.net
+dns.crystalyx.net # Crystalyx
+dns.csaonline.de # CSA-IT
+dns.csa-rz.de # csa-rz.de
+dns.csswg.org # CSS Working Group
+dns.cybertonic.tech # cybertonic.tech
+dns.cynthialabs.net # CynthiaLabs
+dns.d94.xyz # d94.xyz
+dns.d96.info # d96.info
+dns.datenquark.de # datenquark.de
+dns.deadsec.net # Hacki
+dns.decky.eu # Pavol Decky
+dns.de.futuredns.eu.org # FutureDNS
+dns.dev-umbrellagov.com # dev-umbrellagov
+dns.digitale-gesellschaft.ch # Digitale Gesellschaft
+dns.digitalsize.net # dns.digitalsize.net
+dns.dns-53.us # dns-53
+dns.dnshome.de # dnsHome.de
 dns.dns-over-https.com
 dns.dnsoverhttps.net
+dns.dremaxx.de # dremaxx.de
+dns.efficientdocuments.com # efficientdocuments.com
+dns.elemental.software # Elemental Software
+dns.eliv.kr # ELIV DNS
+dns.emiliyan.com # Emiliyan Parvanov
+dns.faked.org # faked.org
 dns-family.adguard.com
+dns.fancyorg.at # Fancyorg.at
+dns.farshidhakimy.de # farshidhakimy.de
+dns.fehlsprache.de # fehlsprache.de
 dns.flatuslifir.is
-dnsforge.de
-dns.google
+dns.floriantinney.de # floriantinney.de
+dns.flymc.cc # FLY_MC
+dnsforge.de # dnsforge.de
+dns.froth.zone # Froth.zone
+dns.gamban.com # Gamban
+dns.girino.org # girino.org
+dns.glf.wtf # Gottlieb Freitag
 dns.google.com
-dns.hostux.net
-dns.nextdns.io
+dns.google # Google
+dns.guard.io # Guardio
+dns.haka.se # Hakase
+dns.henek.ovh # Egor Glukhikh
+dns.hoody.com # Hoody
+dns.hostux.net # Hostux
+dns.hypercute.eu # Apollinaria
+dns.inclusioproject.com # Inclusio
+dns.indybanipal.com # indybanipal.com
+dns.inforlogia.com # Inforlogia
+dns.jupitrdns.com # Jupitr DNS
+dns.kapite.in # kapite.in
+dns.karadag.me # Karadağlar
+dns.kastner-online.de # kastner-online.de
+dns.kebree.fr # kebree.fr
+dns.kerekes.xyz # Kerekes
+dns.kernel-error.de # Kernel Error
+dns.kescher.at # kescher
+dns.koala.us.to # Koala
+dns.kosan.moe # Kosan
+dns.kuuhaku.moe # kuuhaku.moe
+dns.l337.site # l337.site
+dns.lars-lehmann.net # Lars Lehmann
+dns.lepilleur.com # lepilleur.com
+dns.levonet.sk # Levonet
+dns.liberador.net # Liberador.net
+dns.lobbygod.com # LobbyGod
+dnslow.me # dnslow.me
+dns.luma-medien.com # LuMa Medien
+dns.marasov.id # marasov.id
+dns.marbledfennec.net # Marbled Fennec Networks / FurrIX
+dns.mateo.ovh # mateo.ovh
+dns.mayx.eu.org # Mayx
+dns.mbrjun.cn # MBRJun
+dns.mh4ckt3mh4ckt1c4s.xyz # mh4ckt3mh4ckt1c4s.xyz
+dns.michelo.cl # michelo.cl
+dns.mnet-online.de # mnet-online.de
+dns.momou.ch # momou! DNS
+dns.mullvad.net # Mullvad
+dns.mzjtechnology.com # MZJ Technology
+dns.nako.kr # nako.kr
+dns.neeb.it # neeb.it
+dns.netvpn.net # NetVPN
+dns.nextdns.io # NextDNS
+dns.nhtsky.com # nhtsky
+dns.nick-slowinski.de # Nick Slowinski
+dns.ningkelle.id # Ningkelle
+dns.njal.la # Njalla
+dns.novg.net # novg.net
 dns-nyc.aaflalo.me
+dns.odinpl.com # Odin
+dns.ofdoom.net # ofdoom.net
+dns.oliviertv.co.za # oliviertv
 dns.opendns.com
-dns.quad9.net
+dns.paesa.es # PaesaDNS
+dns.pari.network # FLY_MC
+dns.peb-schmidt.de # peb-schmidt.de
+dns.petqa.ru # petqa.ru
+dns.propheci.xyz # propheci.xyz
+dns.pub # DNSPod
+dnspub.restena.lu # Restena
+dns.quad9.net # Quad9
+dns.quiet.rocks # Quiet Rocks
+dns.rabbitdns.org # Rabbit DNS
+dns.rbn.gr # RobinGroppe.de
+dns.reckoningslug.name # reckoningslug.name
+dns.redhosting.com.ar # redhosting.com.ar
+dns.reitmeier.me # reitmeier.me
+dns.retakecs.com # RetakeCS
+dns.roedel.cloud # roedel.cloud
 dns.rubyfish.cn
-dns.switch.ch
-dns.twnic.tw
-doh-2.seby.io
+dns.seia.io # Xstl DNS
+dns.sev.monster # sev.monster
+dns.sheggi.ch # Sheggi
+dns.shimul.me # Shimul D
+dns.silen.org # silen.org
+dns.silentlybren.com # Silentlybren
+dns.skrep.eu # skrep.eu
+dns.slinkyman.net # Slinkyman.net
+dns.smartguard.io # SmartGuard
+dns.startupstack.tech # Startup Stack
+dns.stevenz.net # stevenz
+dns.stirringphoto.com # stirringphoto.com
+dns.stormycloud.org # StormyCloud
+dns.suhaila.dev # suhaila.dev
+dns.superstefan.win # superstefan.win
+dns.svoi.dev # Svoi
+dns.switch.ch # Switch
+dns.szpadel.ovh # szpadel.ovh
+dns.t53.de # t53.de
+dns.technologycage.com # Marco Fox
+dns.telekom.de # Telekom Deutschland
+dns.thebuckners.org # thebuckners.org
+dns.thiz.top # thiz.top
+dns.tierradeayala.com # tierradeayala.com
+dns.tipsy.coffee # TipsyCoffee
+dns.tls-data.de # Tls-data.de
+dnstls.mobik.com # mobik
+dns.twnic.tw # TWNIC
+dns.unx.io # unx.io
+dns.us.futuredns.eu.org # FutureDNS
+dns.vaioswolke.xyz # vaioswolke.xyz
+dns.vod11.xyz # vod11.xyz
+dns.vojtat.cz # Vojtěch Trunda
+dnsvps.familiamv.net # familiamv.net
+dns.w3ctag.org # W3C TAG
+dns.wang.art # wang art
+dns.xlion.tw # xlion.tw
+dns.yuu-g.net # Yuu528
+do-39574-tr.xyz # do-39574-tr.xyz
+dog.dns.qwer.pw # QWER DNS
+doh-01.spectrum.com # Charter
+doh-02.spectrum.com # Charter
+doh1.b-cdn.net # bunny.net
+doh-2.seby.io # @publicarray
 doh.42l.fr
-doh.applied-privacy.net
+doh.774445.xyz # 774445.xyz
+doh.aaaab3n.moe # Canarypwn
+doh.angry.im # Angry.im
+doh.apad.pro # EasyMosdns
+doh.applied-privacy.net # Foundation for Applied Privacy
+doh.archuser.org # Pubhole
 doh.armadillodns.net
+doh.battle.christmas # battle.christmas
+doh.beauty # doh.beauty
+doh.buzz # doh.buzz
 doh.captnemo.in
 doh.centraleu.pi-dns.com
-doh.cleanbrowsing.org
+doh.cippapp.com # cippapp.com
+doh.cleanbrowsing.org # CleanBrowsing
 doh.crypto.sx
-doh-de.blahdns.com
+doh-de.blahdns.com # Blahdns
+doh.denypradana.com # denypradana.com
+doh.disconnect.app # Disconnect.app
+doh.dns4all.eu # DNS4all
 doh.dns.apple.com
 doh.dnslify.com
-doh.dns.sb
+doh.dns.sb # DNS.SB
+doh.domreg.lt # domreg.lt
 dohdot.coxlab.net
 doh.eastus.pi-dns.com
-doh.familyshield.opendns.com
-doh.ffmuc.net
+doh.excdn.eu.org # excdn.eu.org
+doh.familyshield.opendns.com # Cisco Umbrella (OpenDNS)
+doh.ffmuc.net # ffmuc.net
 doh-fi.blahdns.com
+doh.futa.gg # FutaDNS
+doh.immerda.ch # immerda.ch
+doh.iucc.ac.il # Inter-University Computation Center
 doh-jp.blahdns.com
+doh.kel.pe # André Kelpe
+doh.kidzonet.io # Kidzonet
+doh.lacontrevoie.fr # La Contre-Voie
 doh.li
-doh.libredns.gr
+doh.libredns.gr # LibreDNS
+doh.li # Feroz
+doh.lv # NIC.LV
+doh.maskab.com # maskab
+doh.mmmalia.com # mmmalia.com
+doh.nic.lv # NIC.LV
+doh.niyawe.de # NiYaWe
 doh.northeu.pi-dns.com
-doh.opendns.com
+doh.opendns.com # Cisco Umbrella (OpenDNS)
+doh-own-recursion.nicolas-dorriere.fr # Nicolas Dorriere
 doh.powerdns.org
+doh.qis.io # Quadrant Information Security
+doh-random-upstream.nicolas-dorriere.fr # Nicolas Dorriere
+doh.sb # DNS.SB
 doh.seby.io
+doh.sublime9.xyz # sublime9.xyz
+doh.sunoaki.net # Sunoaki Network
 doh.tiarap.org
-doh.tiar.app
+doh.tiar.app # Tiarap
 doh.umbrella.com
+doh.umbrella.com # Cisco Umbrella (OpenDNS)
+doh.viatech.com.tw # VIA
 doh.westus.pi-dns.com
 doh.xfinity.com
+doh.zknt.org # zknt.org
+doth.huque.com # Huque
+droyd.top # droyd.top
+dub01.dnscry.pt # dnscry.pt
+dukun.de # Dukun.de
+dus01.dnscry.pt # dnscry.pt
+eliatofani.ovh # eliatofani.ovh
+eu1.dns.lavate.ch # LavaDNS
+eu.tri-dns.net # Tri-DNS
+evn01.dnscry.pt # dnscry.pt
 example.doh.blockerdns.com
-family.cloudflare-dns.com
+extended.dns.mullvad.net # Mullvad
+family.5ososea.com # 5ososea
+family.adguard-dns.com # AdGuard
+family.canadianshield.cira.ca # CIRA Canadian Shield
+family.cloudflare-dns.com # Cloudflare
+family.dns.mullvad.net # Mullvad
+family.dns.ningkelle.id # Ningkelle
+family.mydns.network # mydns.network
+family.rabbitdns.org # Rabbit DNS
+farewellkou.click # farewellkou.click
+fidelius.top # fidelius.top
 fi.doh.dns.snopyta.org
+fjr01.dnscry.pt # dnscry.pt
+fra01.dnscry.pt # dnscry.pt
+fra02.dnscry.pt # dnscry.pt
+freedns.controld.com # Control D
+freedom.mydns.network # mydns.network
+fr-gra-w-f-1.nashkan.net # nashkan.net
+fr-gra-w-p-1.nashkan.net # nashkan.net
+frog.dns.qwer.pw # QWER DNS
+gb-lon-w-p-2.nashkan.net # nashkan.net
+geg01.dnscry.pt # dnscry.pt
+gibblets.top # gibblets.top
+glacius.top # glacius.top
+gru01.dnscry.pt # dnscry.pt
+gva01.dnscry.pt # dnscry.pt
+haf01.dnscry.pt # dnscry.pt
+han01.dnscry.pt # dnscry.pt
+hard.dnsforge.de # dnsforge.de
+helios.plan9-dns.com # plan9-dns
+home-server.store # home-server.store
+home.wriedts.de # Max Philipp Wriefdt
+hrk01.dnscry.pt # dnscry.pt
 ibksturm.synology.me
-ibuki.cgnat.net
+ibuki.cgnat.net # @null31
+ie01.dns4me.net # dns4me
+ikarosalpha.xyz # ikarosalpha.xyz
+imperio.top # imperio.top
+isb01.dnscry.pt # dnscry.pt
+ist01.dnscry.pt # dnscry.pt
 jcdns.fun
+jp01.dns4me.net # dns4me
 jp.tiarap.org
 jp.tiar.app
-mozilla.cloudflare-dns.com
-odvr.nic.cz
+kids.5ososea.com # 5ososea
+kids.dns0.eu # dns0.eu
+kids.ns.nwps.fi # niko.NWPS.fi
+kiri.nonexiste.net # nonexiste.net
+kiv01.dnscry.pt # dnscry.pt
+kronos.plan9-dns.com # plan9-dns
+las01.dnscry.pt # dnscry.pt
+lifeisa.live # lifeisa.live
+lim02.dnscry.pt # dnscry.pt
+lindung.pp.ua # Lindung
+lion.dns.qwer.pw # QWER DNS
+lis01.dnscry.pt # dnscry.pt
+loadlow.me # loadlow.me
+lon01.dnscry.pt # dnscry.pt
+lukscasino-479-tr.xyz # lukscasino
+lukscasino-929-tr.xyz # lukscasino
+luna-is.so-gorgeo.us.kg # Gorgeous
+mabuktogel.directory # mabuktogel
+mabuktogel.properties # mabuktogel
+mabuktogel.solutions # mabuktogel
+mad01.dnscry.pt # dnscry.pt
+man01.dnscry.pt # dnscry.pt
+maqgie.xyz # maqgie.xyz
+masters-of-cloud.de # Masters of Cloud
+mecca-is.so-gorgeo.us.kg # Gorgeous
+megumin.is.my.waifu.cz # is.my.waifu.cz
+mendozasdelivery.com # mendozasdelivery.com
+mikezhang.xyz # Mike Zhang
+mil01.dnscry.pt # dnscry.pt
+mita-is.so-gorgeo.us.kg # Gorgeous
+mnrv.trade # mnrv.trade
+moamao.shop # moamao.shop
+mozilla.cloudflare-dns.com # Cloudflare
+myatris.sbs # myatris.sbs
+nana-is.so-gorgeo.us.kg # Gorgeous
+nekosama.store # nekosama.store
+netcup.mismat.ch # mismat.ch
+newd.rezyro.com # CycleWorld
+nicsezcheckfbi.gov # FBI NICS E-Check
+nightlymoon.us.kg # Nightly Moon
+nindy-is.so-gorgeo.us.kg # Gorgeous
+nl.dns.privex.io # Privex
+nova-is.so-gorgeo.us.kg # Gorgeous
+ns.00dani.me # Danielle McLean
+ns0.fdn.fr # FDN
+ns1.fdn.fr # FDN
+ns1.opennameserver.org # opennameserver.org
+ns2.4netguides.org # 4NetGuides
+ns2.wuyouss.com # wuyouss.com
+ns3.wuyouss.com # wuyouss.com
+ns.data.haus # data.haus
+nsec.arnor.org # arnor.org
+ns.net.kg # Arashi DNS
+ns.ral9005.org # RAL9005
+ns.trcnet.fi # TrcNeTin
+ntwrkh.pro # ntwrkh.pro
+nue01.dnscry.pt # dnscry.pt
+nz01.dns4me.net # dns4me
+obscuro.top # obscuro.top
+odvr.nic.cz # CZ.NIC
+omr01.dnscry.pt # dnscry.pt
 one.one.one.one
-ordns.he.net
+open.dns0.eu # dns0.eu
+ord01.dnscry.pt # dnscry.pt
+ordns.he.net # Hurricane Electric
+par01.dnscry.pt # dnscry.pt
+paradise-human.shop # paradise-human.shop
+paranoia.mydns.network # mydns.network
+pashagame456.com # pashagame456.com
+paulo.nom.za # Paulo
+pdx01.dnscry.pt # dnscry.pt
+pepetio.xyz # pepetio.xyz
+per.adfilter.net # AdFilter
+phl01.dnscry.pt # dnscry.pt
+phx01.dnscry.pt # dnscry.pt
+pihole.aws.ketan.dev # ketan.dev
+pluton.plan9-dns.com # plan9-dns
+pm1239-bd.xyz # pm1239-bd.xyz
+pm7051-br.xyz # pm7051-br.xyz
+pm9352-bd.xyz # pm9352-bd.xyz
+polisitogel.limo # polisitogel
+polisitogel.living # polisitogel
+polisitogel.luxe # polisitogel
+polisitogel.realty # polisitogel
+polisitogel.show # polisitogel
+polisitogel.webcam # polisitogel
+pooblet.co.za # pooblet.co.za
+princez.uk # Zakaria
+privacy.plumedns.com # PlumeDNS
+private.canadianshield.cira.ca # CIRA Canadian Shield
+protected.canadianshield.cira.ca # CIRA Canadian Shield
+public.dns.iij.jp # Internet Initiative Japan
+public.ns.nwps.fi # niko.NWPS.fi
+qlf-doh.inria.fr # Institut national de recherche en sciences et technologies du numérique
+rdd01.dnscry.pt # dnscry.pt
 rdns.faelix.net
+regiopolis.cloud # regiopolis.cloud
+renardbleu.dev # renardbleu.dev
+resolv1.trash.net # Trash.net
+resolv2.trash.net # Trash.net
+resolv3.trash.net # Trash.net
+resolver2.absolight.net # Absolight
+resolver3.absolight.net # Absolight
 resolver-eu.lelux.fi
-security.cloudflare-dns.com
-twnic-public-dns.twnic.tw
+resolver.sunet.se # Sunet DNS
+revelio.top # revelio.top
+rfree1.blue-shield.at # Blue Shield Umbrella
+rfree2.blue-shield.at # Blue Shield Umbrella
+ro-buc-w-p-1.nashkan.net # nashkan.net
+rockwell.website # rockwell.website
+sa01.dns4me.net # dns4me
+safeservedns.com # SafeServe
+sea01.dnscry.pt # dnscry.pt
+secondary.dns.seia.io # Xstl DNS
+secure.anudeep.me # Anudeep
+secure.avastdns.com # Avast DNS
+security.cloudflare-dns.com # Cloudflare
+security.rabbitdns.org # Rabbit DNS
+sg01.dns4me.net # dns4me
+sgn01.dnscry.pt # dnscry.pt
+sg-w-p-1.nashkan.net # nashkan.net
+sin02.dnscry.pt # dnscry.pt
+sin03.dnscry.pt # dnscry.pt
+sitha-is.so-gorgeo.us.kg # Gorgeous
+sjc01.dnscry.pt # dnscry.pt
+sky.rethinkdns.com # RethinkDNS
+slc01.dnscry.pt # dnscry.pt
+sof01.dnscry.pt # dnscry.pt
+solaxy.live # solaxy.live
+squidmall.vip # squidmall.vip
+sto01.dnscry.pt # dnscry.pt
+sundalandia.pp.ua # Sundalandia
+sunnygyl.com # sunnygyl.com
+syd01.dnscry.pt # dnscry.pt
+syd02.dnscry.pt # dnscry.pt
+syd.adfilter.net # AdFilter
+tbs01.dnscry.pt # dnscry.pt
+tecdrive.site # tecdrive.site
+testaghome.meshkov.info # meshkov.info
+tetty-is.so-gorgeo.us.kg # Gorgeous
+tiger.dns.qwer.pw # QWER DNS
+tll01.dnscry.pt # dnscry.pt
+tlv01.dnscry.pt # dnscry.pt
+tor.vasi.li # Vasili Sviridov
+tpa01.dnscry.pt # dnscry.pt
+trf01.dnscry.pt # dnscry.pt
+tri-dns.net # Tri-DNS
+tsm01.dnscry.pt # dnscry.pt
+tujenasnaszato.xyz # tujenasnaszato.xyz
+tuskythehusky.tech # tuskythehusky.tech
+twnic-public-dns.twnic.twresolver1.absolight.net # Absolight
+tyo02.dnscry.pt # dnscry.pt
+uk01.dns4me.net # dns4me
+unfiltered.adguard-dns.com # AdGuard
+us01.dns4me.net # dns4me
+us02.dns4me.net # dns4me
+us1.blissdns.net # BlissDNS
+us-chi-w-f-1.nashkan.net # nashkan.net
+us-chi-w-p-1.nashkan.net # nashkan.net
+us-jac-w-f-1.nashkan.net # nashkan.net
+us-jac-w-p-1.nashkan.net # nashkan.net
+us-kan-w-f-1.nashkan.net # nashkan.net
+us-kan-w-p-1.nashkan.net # nashkan.net
+us-nyc-w-f-1.nashkan.net # nashkan.net
+us-nyc-w-p-1.nashkan.net # nashkan.net
+us-saj-w-f-1.nashkan.net # nashkan.net
+us-saj-w-p-1.nashkan.net # nashkan.net
+vie01.dnscry.pt # dnscry.pt
+virga.pp.ua # Virga DNS
+vno01.dnscry.pt # dnscry.pt
+vorlif.org # vorlif.org
+waw02.dnscry.pt # dnscry.pt
+wikimedia-dns.org # Wikimedia DNS
+xbcpb668.com # xbcpb668.com
+xn--durhre-yxa.de # duröhre.de
+yarp.lefolgoc.net # Yarp
+yhz01.dnscry.pt # dnscry.pt
+yunyun.is.my.waifu.cz # is.my.waifu.cz
+yussy-is.so-gorgeo.us.kg # Gorgeous
+yvr01.dnscry.pt # dnscry.pt
+yyc01.dnscry.pt # dnscry.pt
+yyz01.dnscry.pt # dnscry.pt
+zakaria.website # Zakaria
+zdn.ro # zdn.ro
+zero.dns0.eu # dns0.eu
